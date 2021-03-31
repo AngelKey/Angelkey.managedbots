@@ -3564,10 +3564,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-keybase-bot@3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/keybase-bot/-/keybase-bot-3.4.0.tgz#9950c667a43e2691785efd9144f4bf0410f856d9"
-  integrity sha512-fcco6u4UH22t2Y2qvVc6uYnrLd9Yazw88GhP/ej9AOR8fWaFRd5YLz9lPeCLDab0inBNpNYIETCdE2oU1hB8Cg==
+keybase-bot@3.6.1:
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/keybase-bot/-/keybase-bot-3.6.1.tgz#d0262ed8359026926da00b69b43c53104fcfd0bf"
+  integrity sha512-AUI/CXHC8EgBX9Gf/h0rcRF6WB97nYWH/KCYyitwh3MmXLltr34DzDLp8jPeRF92k6vCrZ5mIhC2ecXW3dtprg==
   dependencies:
     isexe "2.0.0"
     lodash.camelcase "4.3.0"
@@ -5795,9 +5795,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yallist@^3.0.0, yallist@^3.0.2, yallist@^3.0.3:
   version "3.1.1"
