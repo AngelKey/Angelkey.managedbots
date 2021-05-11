@@ -2740,9 +2740,9 @@ homedir-polyfill@^1.0.1:
     parse-passwd "^1.0.0"
 
 hosted-git-info@^2.1.4:
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.5.tgz#759cfcf2c4d156ade59b0b2dfabddc42a6b9c70c"
-  integrity sha512-kssjab8CvdXfcXMXVcvsXum4Hwdq9XGtRD3TteMEvEbq0LXyiNQr6AprqKqfeaDXze7SxWvRxdpwE6ku7ikLkg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 html-encoding-sniffer@^1.0.2:
   version "1.0.2"
@@ -3564,10 +3564,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-keybase-bot@3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/keybase-bot/-/keybase-bot-3.4.0.tgz#9950c667a43e2691785efd9144f4bf0410f856d9"
-  integrity sha512-fcco6u4UH22t2Y2qvVc6uYnrLd9Yazw88GhP/ej9AOR8fWaFRd5YLz9lPeCLDab0inBNpNYIETCdE2oU1hB8Cg==
+keybase-bot@3.6.1:
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/keybase-bot/-/keybase-bot-3.6.1.tgz#d0262ed8359026926da00b69b43c53104fcfd0bf"
+  integrity sha512-AUI/CXHC8EgBX9Gf/h0rcRF6WB97nYWH/KCYyitwh3MmXLltr34DzDLp8jPeRF92k6vCrZ5mIhC2ecXW3dtprg==
   dependencies:
     isexe "2.0.0"
     lodash.camelcase "4.3.0"
