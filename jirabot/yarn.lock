@@ -3564,10 +3564,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-keybase-bot@3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/keybase-bot/-/keybase-bot-3.4.0.tgz#9950c667a43e2691785efd9144f4bf0410f856d9"
-  integrity sha512-fcco6u4UH22t2Y2qvVc6uYnrLd9Yazw88GhP/ej9AOR8fWaFRd5YLz9lPeCLDab0inBNpNYIETCdE2oU1hB8Cg==
+keybase-bot@3.6.1:
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/keybase-bot/-/keybase-bot-3.6.1.tgz#d0262ed8359026926da00b69b43c53104fcfd0bf"
+  integrity sha512-AUI/CXHC8EgBX9Gf/h0rcRF6WB97nYWH/KCYyitwh3MmXLltr34DzDLp8jPeRF92k6vCrZ5mIhC2ecXW3dtprg==
   dependencies:
     isexe "2.0.0"
     lodash.camelcase "4.3.0"
@@ -4371,9 +4371,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-type@^3.0.0:
   version "3.0.0"
