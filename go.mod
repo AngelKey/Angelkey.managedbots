@@ -3,11 +3,11 @@ module github.com/keybase/managed-bots
 go 1.13
 
 require (
-	github.com/aws/aws-sdk-go v1.28.1
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/bradleyfalzon/ghinstallation v1.1.0
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fortytw2/leaktest v1.3.0 // indirect
-	github.com/go-sql-driver/mysql v1.4.1
+	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/protobuf v1.3.4 // indirect
 	github.com/google/go-github/v28 v28.1.1
 	github.com/gorilla/mux v1.7.3
@@ -18,9 +18,8 @@ require (
 	github.com/kr/text v0.0.0-20150520163712-e373e137fafd // indirect
 	github.com/mailru/easyjson v0.7.0 // indirect
 	github.com/olivere/elastic v6.2.27+incompatible
-	github.com/pkg/errors v0.9.1 // indirect
 	github.com/stathat/go v1.0.0
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.5.1
 	github.com/xanzy/go-gitlab v0.28.0
 	go.opencensus.io v0.22.1 // indirect
 	golang.org/x/crypto v0.0.0-20191112222119-e1110fd1c708 // indirect
